@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584210562728",
+    "project_id": "stopify-20f53",
+    "storage_bucket": "stopify-20f53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584210562728:android:ac91da6964e090e0ca0c9d",
+        "android_client_info": {
+          "package_name": "com.example.stopify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPszTtYrN8hSqE5ADedhSSXy29UFj2EcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

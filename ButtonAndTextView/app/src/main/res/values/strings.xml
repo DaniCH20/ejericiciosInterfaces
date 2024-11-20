@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ButtonAndTextView</string>
+    <string name="text_ok">OK</string>
+    <string name="text_pulsa">Introduce un numero primo</string>
+    <string name="text_No">No es un numero Primo</string>
+    <string name="text_Si">Es un numero Primo</string>
+    <string name="button_Comprobar">Comprobar</string>
+    <string name="button_Reiniciar">Reiniciar</string>
+    <string name="numero">Tu numero</string>
+</resources>
